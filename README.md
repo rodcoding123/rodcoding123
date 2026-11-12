@@ -4,7 +4,7 @@
 
 - 🧠 Co-founder at **RuneLabs**, an AI development studio
 - 🛒 Founded **Smart Planner**: grew it from $3,000 into a best-selling Amazon brand (7,000+ reviews) with retail operations across multiple continents, exited in 2021
-- 🎨 11+ years running a creative & marketing agency (KR Digital → Wildside → Rite of Sage), Shopify Certified Partner
+- 🎨 11+ years running a creative & marketing agency, Shopify Certified Partner
 - 🎖️ Led the team behind a psychometric profiling system built with the Brazilian Special Forces, later adapted for civilians as Alpha-3
 - 🎓 Computer Engineering at FIAP, with 1st place in three robotics and rocketry competitions · 3 years of Law at PUC-SP
 
